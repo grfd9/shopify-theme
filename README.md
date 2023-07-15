@@ -8,7 +8,7 @@ $ theme new --password=[your-theme-kit-password] --store="[your-store.myshopify.
 
 <details>
 
-<summary>Get theme passowrd</summary>
+<summary>Get theme password</summary>
 
 #### Install - [Theme Access app](https://apps.shopify.com/theme-access?shpxid=57843a18-19C5-4058-9557-39DC6B42171E)
 
