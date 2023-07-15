@@ -12,8 +12,6 @@ Create new theme using Shopify ThemeKit [Read more](https://shopify.dev/docs/the
 
 </details>
 
-&nbsp;
-
 ```bash
 $ theme new --password=[your-theme-kit-password] --store="[your-store.myshopify.com]" --name="Your Theme Name"
 ```
@@ -29,6 +27,7 @@ Install Tailwindcss with Postcss - [documentation](https://tailwindcss.com/docs/
 Install Tailwindcss
 
 ```bash
+# you can use other package manager (e.g npm, yarn)
 $ pnpm install -D tailwindcss postcss autoprefixer
 ```
 
@@ -72,6 +71,7 @@ package.json
 Run and generate tailwindcss assets/theme.css.liquid
 
 ```bash
+# you can use other package manager (e.g npm, yarn)
 $ pnpm run postcss
 ```
 
